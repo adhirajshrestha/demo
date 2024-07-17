@@ -1,0 +1,165 @@
+.wholeee {
+  max-width: 1320px;
+}
+
+.whole {
+  padding-left: 6.5rem;
+  max-width: 1320px;
+  padding-top: 80;
+  padding-bottom: 80;
+}
+
+.wholetoo {
+  flex-basis: 55%;
+}
+
+.richard {
+  font-size: 3.7rem /* 60px */;
+  line-height: 1;
+  margin-top: 3rem;
+}
+
+.designing {
+  padding-top: 1rem;
+  font-size: 1.35rem /* 20px */;
+  line-height: 1.75rem /* 28px */;
+}
+
+.hireee {
+  display: flex;
+  padding-top: 3rem;
+}
+
+.hire-me {
+  padding-left: 2rem /* 16px */;
+  padding-right: 2rem /* 16px */;
+  padding-top: 1rem /* 8px */;
+  padding-bottom: 1rem /* 8px */;
+  font-weight: 500;
+  border-color: #ef4444;
+  background-color: #ef4444;
+  color: white;
+  font-size: 1.25rem /* 20px */;
+  line-height: 1.75rem /* 28px */;
+  text-decoration: none;
+  border: none;
+  display: flex;
+}
+
+.hire-me:hover {
+  background-color: #f87171;
+  color: #111827;
+  cursor: pointer;
+}
+
+.main-project {
+  padding-left: 5rem;
+  padding-top: 0.8rem;
+}
+.projects {
+  padding-left: 20px;
+  font-weight: 500;
+  font-size: 1.25rem /* 20px */;
+  line-height: 1.75rem /* 28px */;
+  border: none;
+  background-color: #d1d5db;
+}
+
+.clientnum {
+  padding-top: 1.25rem /* 20px */;
+  padding-right: 9rem;
+  font-size: 1.5rem /* 20px */;
+  line-height: 2rem /* 28px */;
+}
+
+.clients {
+  font-size: 1.125rem /* 18px */;
+  line-height: 1.75rem /* 28px */;
+}
+
+.project {
+  display: flex;
+}
+
+.num {
+  font-size: 1.5rem /* 24px */;
+  line-height: 2rem /* 32px */;
+  font-weight: 700;
+}
+
+.projects {
+  font-weight: 500;
+}
+
+.contacts {
+  padding-left: 4.5rem /* 24px */;
+}
+
+.contact {
+  font-size: 1.5rem /* 24px */;
+  line-height: 2rem /* 32px */;
+  font-weight: 700;
+}
+
+.mail {
+  font-weight: 600;
+  margin-bottom: 4.5rem;
+}
+
+.mainbottom {
+  background-color: #374151;
+  position: absolute;
+  padding-right: 6rem /* 96px */;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 0.25rem /* 4px */;
+  display: flex;
+}
+
+.maintoo {
+  width: 33.333333%;
+  padding-right: 10rem /* 160px */;
+  padding-left: 2rem /* 32px */;
+}
+.statistics {
+  color: white;
+  font-weight: 700;
+  font-size: 1.25rem /* 20px */;
+  line-height: 1.75rem /* 28px */;
+  padding-top: 1rem;
+}
+
+.know {
+  padding-top: 2.5rem;
+  padding-left: 2rem;
+}
+
+.more {
+  background-color: #fde047;
+  font-weight: 500;
+  padding-left: 1.25rem /* 20px */;
+  padding-right: 1.25rem /* 20px */;
+  padding-top: 0.5rem /* 8px */;
+  padding-bottom: 0.5rem /* 8px */;
+}
+.work {
+  margin-right: -0.5rem /* 48px */;
+  width: 50%;
+  padding-right: 60px /* 48px 
+   padding-top: 1.75rem /* 28px */;
+}
+
+.website {
+  color: white;
+}
+
+.mobile {
+  margin-top: 0.5rem /* 8px */;
+  color: white;
+  padding-right: 5rem;
+}
+
+.brand {
+  margin-top: 0.5rem /* 8px */;
+  color: white;
+}

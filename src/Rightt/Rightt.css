@@ -1,0 +1,49 @@
+.wholeimg {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Align items to the top */
+  height: 100vh; /* Ensure the container takes full height */
+}
+.image-container {
+  position: relative;
+}
+
+.image {
+  width: 635px;
+  height: 970px;
+  padding-left: 54rem;
+  margin-top: -47.2rem;
+}
+
+.mainsearch {
+  /*md:flex md:items-center md:w-96 md:mb-4 md:pb-6 mr-48 mb-2*/
+  width: 700px /* 384px */;
+  display: flex;
+  margin-left: 60rem;
+  padding-top: -20rem;
+}
+.searchbar {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border: none;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  padding-left: 1rem /* 16px */;
+  padding-right: 1rem /* 16px */;
+  padding-top: 10px /* 14px */;
+  padding-bottom: 10px /* 14px */;
+  border: none;
+}
+
+.button:hover {
+  cursor: pointer;
+}
